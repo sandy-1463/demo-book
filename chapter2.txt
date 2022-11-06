@@ -1,4 +1,0 @@
-this is new file to commit
-heading
-checkin text editor for vscode from commit message
-hello
